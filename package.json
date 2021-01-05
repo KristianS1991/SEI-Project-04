@@ -16,7 +16,7 @@
     "@mapbox/mapbox-gl-directions": "^4.0.0",
     "@mapbox/polyline": "^1.1.0",
     "@turf/turf": "^5.1.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "bulma": "^0.7.5",
     "css-loader": "^2.1.1",
